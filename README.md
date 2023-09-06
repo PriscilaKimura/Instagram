@@ -12,6 +12,5 @@
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-  <img src="https://github.com/PriscilaKimura/Reproduzindo-Insta/blob/main/img/Imagem%20do%20projeto.jpg?raw=true"/>
-
+  https://github.com/PriscilaKimura/Reproduzindo-Insta/assets/141864300/2d7cf14f-d4b5-47fc-9e2f-d36036d2526a
 
