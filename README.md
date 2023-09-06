@@ -1,4 +1,4 @@
-<h1>Reproduzindo a página inicial do Insta</h1>
+<h1>Reproduzindo a página inicial do Instagram</h1>
 <br>
 <h2> Projeto de estudo proposto durante o evento Missão Programação do ZERO pelo<a href="https://rodolfomori.com.br/devclub">DevClub</a>. </h2>
 
